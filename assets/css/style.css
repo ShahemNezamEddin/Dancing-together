@@ -121,3 +121,46 @@ nav ul li a:hover{
 
     position: absolute;
 }
+
+
+.about {
+    display: flex;
+}
+
+#about-image1 {
+    background: url(../images/about-1.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
+#about-image2 {
+    background: url(../images/about-2.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
+#about-image3 {
+    background: url(../images/about-3.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
+.about-image {
+    width: 50%;
+    height: 600px;
+}
+
+.about-text {
+    width: 50%;
+    height: 600px;
+    background-color: #514438;
+    color: #F2E4D8;
+}
+
+.about-text p{
+    padding: 260px 80px;
+    text-align: center;
+}
+
+#about-us h2{
+    padding: 40px;
+    display: grid;
+    justify-items: center;
+}
