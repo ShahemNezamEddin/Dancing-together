@@ -125,6 +125,7 @@ nav ul li a:hover{
 
 .about {
     display: flex;
+    height: 600px;
 }
 
 #about-image1 {
@@ -144,23 +145,29 @@ nav ul li a:hover{
 
 .about-image {
     width: 50%;
-    height: 600px;
 }
 
 .about-text {
-    width: 50%;
-    height: 600px;
     background-color: #514438;
     color: #F2E4D8;
+    display: flex;
+    align-items: center;
+    width: 50%;
 }
 
-.about-text p{
-    padding: 260px 80px;
+.about-text p {
+    padding: 0px 80px;
     text-align: center;
 }
 
-#about-us h2{
+#about-us h2 {
     padding: 40px;
-    display: grid;
-    justify-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#our-classes h2 {
+    padding: 40px;
+    display: flex;
+    justify-content: center;
 }
