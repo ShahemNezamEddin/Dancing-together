@@ -55,8 +55,9 @@ nav ul li a {
     font-weight: bold;
 }
 
-nav ul li a:hover {
-    border-bottom: 1px solid #514438;
+nav ul li a:hover{
+    border-bottom: 1px solid #F2E4D8;
+    color:  #F2E4D8;
 }
 
 .active {
