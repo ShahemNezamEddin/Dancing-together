@@ -125,6 +125,7 @@ nav ul li a:hover {
 
 #about-us {
     background-color: #514438;
+    padding-bottom: 60px;
 }
 
 .about {
@@ -215,24 +216,26 @@ footer {
     justify-content: space-between;
     height: 200px;
     align-items: center;
+    background-color: #C4A689;
+    margin-top: 60px;
 }
 
 .footer-right {
     width: 50%;
     display: flex;
     justify-content: space-between;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 
 .footer-right i {
-    font-size: 160%;
+    font-size: 220%;
     padding: 1%;
     margin: 5%;
     color: #514438;
 }
 
 .footer-left {
-    margin-left: 20px;
+    margin-left: 40px;
     text-align: center;
 }
 
@@ -246,8 +249,15 @@ footer {
 
 @media screen and (max-width: 1200px) {
 
+    /* main */
+    
     .about {
         height: 400px;
+    }
+
+    /* footer */
+    .footer-right i {
+        font-size: 200%;
     }
 
 }
@@ -256,6 +266,9 @@ footer {
 
 /* For medium screens size from 950px wide and down */
 @media screen and (max-width: 950px) {
+
+    /* main */
+
     .about {
         height: 400px;
         display: block;
@@ -295,5 +308,21 @@ footer {
 
     #our-classes {
         margin-top: 200px;
+    }
+
+    /* footer */
+
+    footer {
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .footer-left {
+        margin-left: 0;
+    }
+
+    .footer-right {
+        width: 60%;
+        margin-right: 0;
     }
 }
