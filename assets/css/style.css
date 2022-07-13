@@ -41,6 +41,14 @@ header {
     cursor: pointer;
     text-decoration: none;
     padding-left: 20px;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#logo img {
+    height: 80px;
 }
 
 nav {
