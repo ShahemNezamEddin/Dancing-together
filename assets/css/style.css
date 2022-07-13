@@ -188,11 +188,16 @@ table {
 table th {
     background-color: #C4A689;
     border: 1px solid #514438;
+    font-size: larger;
 }
 
 table td {
     border: 1px solid #514438;
+    font-weight: 600;
+}
 
+table td a {
+    text-decoration: none;
 }
 
 .dark {
@@ -201,6 +206,38 @@ table td {
 
 .light {
     background-color: #F2E4D8;
+}
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    align-items: center;
+}
+
+.footer-right {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.footer-right i {
+    font-size: 160%;
+    padding: 1%;
+    margin: 5%;
+    color: #514438;
+}
+
+.footer-left {
+    margin-left: 20px;
+    text-align: center;
+}
+
+.footer-left a {
+    text-decoration: none;
 }
 
 
