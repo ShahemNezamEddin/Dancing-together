@@ -375,6 +375,7 @@ footer {
 
     .about-text {
         width: 100%;
+        font-size: small;
     }
 
     #about-text2 {
@@ -382,7 +383,7 @@ footer {
     }
 
     #about-text3 {
-        margin-top: 250px;
+        margin-top: 300px;
     }
 
     #our-classes {
@@ -409,5 +410,29 @@ footer {
     #photos  {
         line-height: 3;
         column-count: 1;
+    }
+}
+
+/* For medium screens size from 600px wide and down */
+@media screen and (max-width: 600px)  {
+
+    /* ahout us */
+    #about-text3 {
+        margin-top: 375px;
+    }
+}
+
+/* For medium screens size from 500px wide and down */
+@media screen and (max-width: 500px)  {
+
+    /* ahout us */
+
+    .about-text {
+        font-size: x-small;
+
+    }
+
+    #about-text3 {
+        margin-top: 375px;
     }
 }
