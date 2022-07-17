@@ -35,6 +35,28 @@
     </header>
 
     <main>
+        <section class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="contact-form">
+                <h2>Let's get you star dance! <img src="assets/images/logo.png" alt=""></h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" class="text-input" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" class="text-input" required>
+                
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" class="text-input" required>
+                
+                <label for="classical-ballet">Classical ballet</label>
+                <input type="radio" id="classical-ballet" name="ballet type" value="classical ballet">
+                <label for="contemporary-ballet">Contemporary ballet</label>
+                <input type="radio" id="contemporary-ballet" name="ballet type" value="contemporary ballet">
+                <label for="question-feedback">We are happy to hear your question or feedback</label>
+                <textarea id="question-feedback" name="question or feedback" placeholder="Your feedback or question" cols="80" rows="5"></textarea>
+            
+                <input class="register-button" type="submit" value="submit">
+            </form>
+        </section>
        
     </main>
 
