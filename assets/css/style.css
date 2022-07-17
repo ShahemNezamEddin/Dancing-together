@@ -263,16 +263,19 @@ footer {
 /* gallery */
 
 #photos  {
-    margin-top: 120px;
-    line-height: 0;
+    margin-top: 136px;
+    line-height: 3;
     column-count: 4;
-    column-gap: 0;
+    column-gap: 1;
 }
 
 #photos img {
     width: 100%;
 }
 
+#gallery-footer {
+    margin-top: 0;
+}
 
 
 /* For larger and medium screens size from 1200px wide and down */
