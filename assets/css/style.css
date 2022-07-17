@@ -179,6 +179,12 @@ nav ul li a:hover {
     font-size: 200%;
 }
 
+.about-text span {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
 #about-us h2 {
     padding: 40px;
     display: flex;
