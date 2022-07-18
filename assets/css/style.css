@@ -292,6 +292,15 @@ footer {
 #gallery-footer {
     margin-top: 0;
 }
+/* For larger and medium screens size from 1800px wide and down */
+
+@media screen and (max-width: 1800px) {
+     /* gallery */
+     #photos  {
+        column-count: 2;
+    }
+
+}
 
 
 /* For larger and medium screens size from 1200px wide and down */
@@ -314,13 +323,6 @@ footer {
 
     .footer-right i {
         font-size: 200%;
-    }
-
-    /* gallery */
-    #photos  {
-        line-height: 3;
-        column-count: 2;
-        column-gap: 1;
     }
 
 }
@@ -419,7 +421,6 @@ footer {
 
     /* gallery */
     #photos  {
-        line-height: 3;
         column-count: 1;
     }
 }
