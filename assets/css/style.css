@@ -292,6 +292,69 @@ footer {
 #gallery-footer {
     margin-top: 0;
 }
+
+/* contact */
+
+.form-section {
+    margin-top: 120px;
+    background: url("../images/contact-image2.jpeg")  center center no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+}
+
+.contact-form {
+    margin:150px 10% 0 0;
+    color: #F2E4D8;
+    background-color: rgba(196, 166, 137, 0.7);
+    max-width: 400px;
+    position: absolute;
+    left:10%;
+    padding: 30px;
+}
+
+.contact-form h2 {
+    display: flex;
+    height: 60px;
+    text-align: center;
+}
+
+.contact-form label {
+    font-weight: 600;
+}
+
+.text-input {
+    background: transparent;
+    color: #F2E4D8;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #F2E4D8;
+    border-radius: 2px;
+}
+
+.contact-form hr {
+    padding-top: 20px;
+}
+
+.contact-form textarea {
+    width: 100%;
+    background: transparent;
+    border: 1px solid #F2E4D8;
+    border-radius: 2px;
+    color: #F2E4D8;
+}
+
+::placeholder {
+    color: #F2E4D8;
+}
+
+ 
+#footer-contact {
+    margin-top: 0;
+}
+
+
 /* For larger and medium screens size from 1800px wide and down */
 
 @media screen and (max-width: 1800px) {
@@ -450,6 +513,14 @@ footer {
     #about-image3 {
         background-size: contain;
     }
+
+    /* contact */
+
+    .contact-form {
+        left: 5%;
+        max-width: 350px;
+    }
+
 
 }
 
