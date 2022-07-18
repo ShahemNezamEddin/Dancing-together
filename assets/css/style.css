@@ -390,6 +390,13 @@ footer {
         margin-top: 200px;
     }
 
+    /*  */
+    .register-button {
+        margin: 0 auto;
+        width: 100%;
+    }
+    
+
     /* footer */
 
     footer {
@@ -415,11 +422,30 @@ footer {
 
 /* For medium screens size from 600px wide and down */
 @media screen and (max-width: 600px)  {
+    /* main */
+    #main-text {
+        bottom: 30px;
+        right: 10px;
+    }
 
     /* ahout us */
     #about-text3 {
         margin-top: 375px;
     }
+
+    #about-image1 {
+        background-size: contain;
+    }
+
+    #about-image2 {
+        background-size: contain;
+        margin-top: 70px;
+    }
+
+    #about-image3 {
+        background-size: contain;
+    }
+
 }
 
 /* For medium screens size from 500px wide and down */
