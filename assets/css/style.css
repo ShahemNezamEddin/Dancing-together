@@ -70,6 +70,7 @@ nav ul li a {
     color: #514438;
     font-size: 150%;
     font-weight: bold;
+    transition: all 400ms ease;
 }
 
 nav ul li a:hover {
@@ -222,7 +223,6 @@ table td {
 
 #our-classes>div>button>a:hover {
     color:#514438;
-    background-color: #F2E4D8;
 }
 
 
@@ -243,12 +243,15 @@ table td {
     background-color: #514438;
     color: #F2E4D8;
     float: right;
+    transition: all 400ms ease;
+    cursor: pointer;
 }
 
 .register-button:hover {
-    background-color: #F2E4D8;
+    background-color: #C4A689;
     color: #514438;
 }
+
 
 /* footer */
 
