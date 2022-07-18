@@ -214,9 +214,17 @@ table td {
     font-weight: 600;
 }
 
-table td a {
+
+#our-classes>div>button>a {
     text-decoration: none;
+    color: #F2E4D8;
 }
+
+#our-classes>div>button>a:hover {
+    color:#514438;
+    background-color: #F2E4D8;
+}
+
 
 .dark {
     background-color: #C4A689;
@@ -459,9 +467,9 @@ footer {
         margin-top: 200px;
     }
 
-    /*  */
+    /* register-button */
     .register-button {
-        margin: 0 auto;
+        margin: 10px auto;
         width: 100%;
     }
     
