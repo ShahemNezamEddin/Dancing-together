@@ -19,8 +19,15 @@ This website allows the school to make easier connections with parents and the k
 
   - The full responsive navigation bar at the top of the three pages.
   
-  it includes anchor to the Logo that links to the home page, and anchors for the Home page, Gallery page, and Contact page.
+  - It includes anchor to the Logo that links to the home page, and anchors for the Home page, Gallery page, and Contact page.
 
   - The navigation bar shows the users the name of the school and it macks the navigation between different pages easy 
 
 ![Nav Bar](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/nav.PNG)
+
+__The landing page image__
+
+  - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school for. 
+  - This section introduces the user with an eye catching animation to grab their attention.
+
+![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing page image.PNG)
