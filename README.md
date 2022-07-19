@@ -30,4 +30,4 @@ __The landing page image__
   - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school for. 
   - This section introduces the user with an eye catching animation to grab their attention.
 
-![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing page image.PNG)
+![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing-page-image.PNG)
