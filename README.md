@@ -31,3 +31,16 @@ This website allows the school to make easier connections with parents and the k
   - This section introduces the user with an eye catching animation to grab their attention.
 
 ![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing-page-image.PNG)
+
+- __About Us Section__
+
+  - About Us section will allow the user to see our school goals, the benefits of the ballet, and information about our teachers and the ballet types. 
+  - The user will see the value of cantact Dancing together school. This should encourage the user to consider register in our classes. 
+
+![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-1.PNG)
+![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-2.PNG)
+![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-3.PNG)
+
+
+
+
