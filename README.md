@@ -58,6 +58,12 @@ This website allows the school to make easier connections with parents and the k
 
 ![Footer](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/footer-readme.PNG)
 
+- __Gallery__
 
+  - The gallery will provide the user with dancing images to see what the classes look like. 
+  - This section is valuable to the user, it will give them an idea about the classes and the ballet training.
+
+![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-1.PNG)
+![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-2.PNG)
 
 
