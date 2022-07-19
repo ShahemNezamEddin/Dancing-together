@@ -25,7 +25,7 @@ This website allows the school to make easier connections with parents and the k
 
 ![Nav Bar](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/nav.PNG)
 
-__The landing page image__
+- __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school for. 
   - This section introduces the user with an eye catching animation to grab their attention.
