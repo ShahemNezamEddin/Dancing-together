@@ -19,7 +19,7 @@ This website allows the school to make easier connections with parents and the k
 
   - The full responsive navigation bar at the top of the three pages.
   
-  - It includes anchors to the Logo that links to the home page, and anchors for the Home page, Gallery page, and Contact page.
+  - It includes anchor to the Logo that links to the home page, and anchors for the Home page, Gallery page, and Contact page.
 
   - The navigation bar shows the users the name of the school and it macks the navigation between different pages easy.
 
@@ -48,5 +48,14 @@ This website allows the school to make easier connections with parents and the k
   - In this section, there is a register button that will allow the user to navigate on-click to Contact Page.
 
 ![Our classes](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/our-classes-readme.PNG)
+
+- __The Footer__ 
+
+  - The footer section includes the mobile number, email, and address.
+  - the address includes an anchor to google maps, The links will open to a new tab to allow easy navigation for the user.
+  - The footer section includes anchors to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user, it keeps them up-date and connected via social media.
+
+![Footer](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/footer-readme.PNG)
 
 
