@@ -66,4 +66,12 @@ This website allows the school to make easier connections with parents and the k
 ![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-1.PNG)
 ![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-2.PNG)
 
+- __The Sign Up Page__
+
+  - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
+  - the user will be asked to enter their First Name, Last Name, and Email Address. 
+  - The user will be able to specify if they would like to take classes in Classical ballet or Contemporary ballet both types of ballet dance.
+  - At the end of the form the user can submit all this information
+
+![Sign Up](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
 
