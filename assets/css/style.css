@@ -270,6 +270,7 @@ footer {
     margin-top: 20px;
 }
 
+
 .footer-right {
     width: 50%;
     display: flex;
@@ -292,6 +293,7 @@ footer {
 .footer-left a {
     text-decoration: none;
 }
+
 
 /* gallery */
 
@@ -371,6 +373,15 @@ footer {
     margin-top: 0;
 }
 
+.thank-you {
+    margin-top: 136px;
+    height: 950px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0% 9%;
+}
+
 
 /* For larger and medium screens size from 1800px wide and down */
 
@@ -379,6 +390,8 @@ footer {
      #photos  {
         column-count: 2;
     }
+
+
 
 }
 
@@ -404,6 +417,13 @@ footer {
     .footer-right i {
         font-size: 200%;
     }
+
+    
+    /* thank you */
+    .thank-you {
+        height: 899px;
+        padding-top: 11%;
+     }
 
 }
 
@@ -503,6 +523,12 @@ footer {
     #photos  {
         column-count: 1;
     }
+
+    /* thank you */
+    .thank-you {
+        height: 590px;
+     }
+    
 }
 
 /* For medium screens size from 600px wide and down */
@@ -571,4 +597,7 @@ footer {
         padding-left: 10px;
      }
 
+     .thank-you {
+        height: 415px;
+     }
 }
