@@ -84,5 +84,41 @@ This website allows the school to make easier connections with kids, and lets th
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
 
+## Testing 
+
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator]()
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator]()
+
+### Unfixed Bugs
+
+
+
+## Deployment
+
+
+
+
+## Credits 
+
+
+### Content 
+
+- The text for the Home page was taken from 
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Code was taken form Love Running project:
+  - The landing page image animation.
+  - Part from the form in contact page.
+
+
+### Media
+
+- The photos used on the home and sign up page are from https://www.pexels.com/
+- The images used for the gallery page were taken from https://www.pexels.com/
+
 
 

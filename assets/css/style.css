@@ -293,7 +293,7 @@ footer {
     margin-top: 136px;
     line-height: 3;
     column-count: 4;
-    column-gap: 1;
+    column-gap: 1%;
 }
 
 #photos img {
