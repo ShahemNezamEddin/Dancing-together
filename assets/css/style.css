@@ -230,18 +230,27 @@ table td {
     background-color: #F2E4D8;
 }
 
+.Join-classes {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+
 .register-button {
     margin: 10px;
     text-decoration: none;
     border-radius: 2px;
     padding: 10px 30px;
     text-align: center;
-    font-size: 100%;
+    font-size: 125%;
     background-color: #514438;
     color: #F2E4D8;
     float: right;
     transition: all 400ms ease;
     cursor: pointer;
+    font-weight: bold;
 }
 
 .register-button:hover {
@@ -258,7 +267,7 @@ footer {
     height: 200px;
     align-items: center;
     background-color: #C4A689;
-    margin-top: 60px;
+    margin-top: 20px;
 }
 
 .footer-right {
