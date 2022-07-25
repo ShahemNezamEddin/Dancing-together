@@ -9,7 +9,7 @@ They can register for classes, and ask questions or give feedback.
 
 This website allows the school to make easier connections with kids, and lets the school estimate how many students will attend each class.
 
-![Responsice Mockup](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/dance-together-mockup.PNG)
+![Responsive Mockup](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/dance-together-mockup.PNG)
 
 ## Features 
 

@@ -513,7 +513,7 @@ footer {
         right: 10px;
     }
 
-    /* ahout us */
+    /* about us */
     #about-text3 {
         margin-top: 375px;
     }
@@ -548,10 +548,13 @@ footer {
         padding-left: 0px;
     }
 
+    /* main */
 
+    #main-image {
+        animation: none;
+    }
 
-
-    /* ahout us */
+    /* about us */
 
     .about-text {
         font-size: x-small;
