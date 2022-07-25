@@ -533,6 +533,14 @@ footer {
 /* For medium screens size from 500px wide and down */
 @media screen and (max-width: 500px)  {
 
+    /* header */
+    #logo {
+        padding-left: 0px;
+    }
+
+
+
+
     /* ahout us */
 
     .about-text {
@@ -543,4 +551,11 @@ footer {
     #about-text3 {
         margin-top: 375px;
     }
+
+     /* footer */
+
+     .footer-left {
+        padding-left: 10px;
+     }
+
 }
