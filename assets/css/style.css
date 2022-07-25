@@ -496,7 +496,11 @@ footer {
     /* register-button */
     .register-button {
         margin: 10px auto;
-        width: 100%;
+        padding: 10px 156px;
+    }
+
+    .Join-classes {
+        flex-direction: column;
     }
     
 
