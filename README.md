@@ -1,13 +1,13 @@
 # Dancing Together
 
-The dancing together website is for parents and children looking for fun dancing classes for kids.
-our school offers fun activities for kids to learn how to dance from a young age because dancing is simply the best way to exercise, relax and have fun!
+The dancing together website is for kids looking for fun dancing classes .
+our school offers fun activities for kids to learn how to dance from a young age because dancing is way to exercise, relax and have fun!
 
 The users of this site can see information about our school, teachers, dance types, class days, and times.
 
-They can register for it, and ask questions or give feedback.
+They can register for classes, and ask questions or give feedback.
 
-This website allows the school to make easier connections with parents and the kids and lets the school estimate how many students will attend each class.
+This website allows the school to make easier connections with kids, and lets the school estimate how many students will attend each class.
 
 ![Responsice Mockup](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/dance-together-mockup.PNG)
 
@@ -19,9 +19,11 @@ This website allows the school to make easier connections with parents and the k
 
   - The full responsive navigation bar at the top of the three pages.
   
-  - It includes anchor to the Logo that links to the home page, and anchors for the Home page, Gallery page, and Contact page.
+  - It includes anchor to the Logo that links to the home page. 
 
-  - The navigation bar shows the users the name of the school and it macks the navigation between different pages easy.
+  - the nav includes three anchors for the Home page, Gallery page, and Contact page.
+
+  - The navigation bar shows the users the name of the school and it makes the navigation easy between different pages.
 
 ![Nav Bar](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/nav.PNG)
 
@@ -34,8 +36,12 @@ This website allows the school to make easier connections with parents and the k
 
 - __About Us Section__
 
-  - About Us section will allow the user to see our school goals, the benefits of the ballet, and information about our teachers and the ballet types. 
-  - The user will see the value of contact Dancing together school. This should encourage the user to consider registering in our classes. 
+  - About Us section allows users to see:
+     - School goals.
+     - Ballet benefits.
+     - Information about our teachers.
+     - Ballet types. 
+  -  This should encourage the users to consider registering in our classes. 
 
 ![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-1.PNG)
 ![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-2.PNG)
@@ -43,9 +49,12 @@ This website allows the school to make easier connections with parents and the k
 
 - __Our classes section__
 
-  - This section will allow the user to see exactly when the classes will happen, who the teacher is, and which type of ballet we will learn. 
+  - This section allows users to see :
+     - When the classes will happen.
+     - Who the teachers are.
+     - Which type of ballet we will learn. 
   - This section will be updated so the user will be up to date with this information.
-  - In this section, there is a register button that will allow the user to navigate on-click to Contact Page.
+  - In this section, there is a register button allows users to navigate on-click to Contact Page.
 
 ![Our classes](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/our-classes-readme.PNG)
 
@@ -53,8 +62,8 @@ This website allows the school to make easier connections with parents and the k
 
   - The footer section includes the mobile number, email, and address.
   - the address includes an anchor to google maps, The links will open to a new tab to allow easy navigation for the user.
-  - The footer section includes anchors to the relevant social media sites. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user, it keeps them up-date and connected via social media.
+  - The footer section includes anchors to the relevant social media sites. The links will open to a new tab to allow easy navigation for users. 
+  - The footer is valuable to the users, it keeps them up-date and connected via social media.
 
 ![Footer](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/footer-readme.PNG)
 
@@ -70,8 +79,8 @@ This website allows the school to make easier connections with parents and the k
 
   - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
   - the user will be asked to enter their First Name, Last Name, and Email Address. 
-  - The user will be able to specify if they would like to take classes in Classical ballet or Contemporary ballet both types of ballet dance.
-  - At the end of the form the user can submit all this information
+  - The user will be able to specify if they would like to take classes in Classical ballet, Contemporary ballet, or both types.
+  - At the end of the form users can submit all this information
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
 
