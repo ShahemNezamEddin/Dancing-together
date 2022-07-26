@@ -241,7 +241,7 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 
 [Back to top](<#navigator>)
 
-### **To create a local clone of this project**
+## To create a local clone of this project
 
 
 
