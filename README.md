@@ -221,7 +221,30 @@ This website allows the school to make easier connections with kids, and lets th
 
 # Deployment
 
+## To deploy the project
+The site deployed to GitHub pages. The steps to deploy a site are as follows:
+  1. In Dance together gitHub repository go to **settings** tap.
+  2. In Settings, navigate to the **Pages** tab on the left hand side.
+  3. Under **Source**, select the branch to **main**, then click **save**.
+  4. Once the main branch has been selected, the page will be automatically deployed successfully on [Dancing-together](https://shahemnezameddin.github.io/Dancing-together/) site.
+
+![Deployment](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-pages.PNG)
+
 [Back to top](<#navigator>)
+
+## To fork the repository on GitHub
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+1. Log in to **GitHub** and locate the [repository](https://github.com/ShahemNezamEddin/Dancing-together).
+2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+
+![Github repository fork](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-fork.PNG)
+
+[Back to top](<#navigator>)
+
+### **To create a local clone of this project**
+
+
+
 
 # Credits 
 
