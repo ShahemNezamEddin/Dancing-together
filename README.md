@@ -29,6 +29,7 @@ This website allows the school to make easier connections with kids, and lets th
          - [Footer](<#footer>)
          - [Gallery](<#gallery>)
          - [Contact](<#contact>)
+    - [Future features](<#future-features>)
 - [**Technologies used**](<#technologies-used>)         
 - [**Testing**](<#testing>)
     - [Validator testing](<#validator-testing>)
@@ -187,6 +188,10 @@ This website allows the school to make easier connections with kids, and lets th
   - At the end of the form users can submit all this information
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
+
+[Back to top](<#navigator>)
+
+## Future features
 
 [Back to top](<#navigator>)
 
