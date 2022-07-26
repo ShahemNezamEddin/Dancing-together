@@ -47,8 +47,8 @@ This website allows the school to make easier connections with kids, and lets th
 - As a user I want to understand the purpose of the site upon loading it.
 - As a user I want to easily be able to contact Dancing together for more information.
 - As a user I want to see information about the school.
-- As a user I want to know more about teachers and the ballet.
-- As a user I want to see some photos for the dancing classes.
+- As a user I want to know more about teachers and ballet.
+- As a user I want to see some photos for dancing classes.
 - As a user I want to connect with Dancing together on social media.
 
 
@@ -75,7 +75,7 @@ This website allows the school to make easier connections with kids, and lets th
   - [Gallery](gallery.html).
   - [contact](contact.html).
 - Pages are all accessible from the nav bar. 
-- There is another link to contact page in 'our classes' section so users can register for the classes. 
+- There is another link to contact page in 'our classes' section so users can register in our school. 
 
 
 [Back to top](<#navigator>)
