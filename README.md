@@ -52,7 +52,7 @@ This website allows the school to make easier connections with kids, and lets th
 - As a user I want to connect with Dancing together on social media.
 
 
-[Back to top](<#footer>)
+[Back to top](<#navigator>)
 
 ## Wireframes
 
