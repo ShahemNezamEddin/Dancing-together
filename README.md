@@ -60,7 +60,7 @@ This website allows the school to make easier connections with kids, and lets th
 - There are three wireframes home page, gallery page and contact page.
 - The wireframe display desktop computer, iPad device, and mobile device.
 
-![Wireframe home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/wireframewireframe-homepage.PNG)
+![Wireframe home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/wireframe-homepage.PNG)
 
 ![Wireframe gallery page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/wireframe-gallerypage.PNG)
 
@@ -75,7 +75,7 @@ This website allows the school to make easier connections with kids, and lets th
   - [Gallery](gallery.html).
   - [contact](contact.html).
 - Pages are all accessible from the nav bar. 
-- There is another link to the contact page in the 'our classes' section so users can register for the classes. 
+- There is another link to contact page in 'our classes' section so users can register for the classes. 
 
 
 [Back to top](<#navigator>)
