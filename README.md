@@ -96,9 +96,9 @@ This website allows the school to make easier connections with kids, and lets th
 
 ![Adobe color](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/adobe-color.png)
 
-![my color space](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/mycolor-space.png)
+![My color space](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/mycolor-space.png)
 
-![contrast grid](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contrast-grid.png)
+![Contrast grid](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contrast-grid.png)
 
 
 [Back to top](<#navigator>)
@@ -250,17 +250,33 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 
 ### Content 
 
-- The text for the Home page was taken from 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Code was taken form Love Running project:
+- The font came from [Google Fonts](https://fonts.google.com/).
+- The color palate was compiled by:
+  - [Adobe color](https://color.adobe.com/).
+  - [My color space](https://mycolor.space/).
+  - [Contrast grid](https://contrast-grid.eightshapes.com/).
+- The wireframes created by [Balsamiq](https://balsamiq.com/wireframes/).
+- The text for the Home page was taken from:
+  - [Hayley Descavich](https://www.joffreyballetschool.com/hayley-descavich/).
+  - [Kelly Hayes](https://www.peridance.com/facprofile.cfm?FID=326).
+  - [Classical_ballet](https://en.wikipedia.org/wiki/Classical_ballet).
+  - [Contemporary_ballet](https://en.wikipedia.org/wiki/Contemporary_ballet).
+  - [ballet-for-kids](https://www.activekids.com/ballet/articles/5-benefits-of-ballet-for-kids).
+- The logo in the header designed by **Nahla Nezam Eddin**
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+- The form validation idea came from a Code Institute course materials.
+- The inspiration for:  
   - The landing page image animation.
-  - Part from the form in contact page.
+  - Part from the form in contact page. 
+  come from love running project.
 
 [Back to top](<#navigator>)
 ### Media
 
-- The photos used on the home and sign up page are from https://www.pexels.com/
-- The images used for the gallery page were taken from https://www.pexels.com/
+- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/)
+- The images used for the gallery page were taken from [Pexels](https://www.pexels.com/)
 
 [Back to top](<#navigator>)
+
+
 
