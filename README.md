@@ -242,8 +242,18 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 [Back to top](<#navigator>)
 
 ## To create a local clone of this project
+The method from cloning a project from GitHub is below:
 
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
 
+![Github repository clone](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-clone.PNG)
+
+[Back to top](<#navigator>)
 
 
 # Credits 
@@ -279,5 +289,10 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 
 [Back to top](<#navigator>)
 
+# Acknowledgements
+I would like to thank:
+- My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guidance and support.
+- Slack community, and Code Institute crew for their help and support.
+- My family and friends for their user experience and feedback.
 
-
+[Back to top](<#navigator>)
