@@ -267,8 +267,9 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 - The form validation idea came from a Code Institute course materials.
 - The inspiration for:  
   - The landing page image animation.
-  - Part from the form in contact page. 
-  come from love running project.
+  - Part from the form in contact page.
+
+  came from love running project.
 
 [Back to top](<#navigator>)
 ### Media
