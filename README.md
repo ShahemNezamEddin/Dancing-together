@@ -159,7 +159,7 @@ This website allows the school to make easier connections with users, and allow 
      - Who are teachers?
      - Which type of ballet is taking place? 
   - This section will be updated, to keep users up to date.
-  - In this section, there is a register button, which navigate users on-click to Contact Page.
+  - In this section, there is a register button, which navigates user's on-click to Contact Page.
 
 ![Our classes](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/our-classes-readme.PNG)
 
@@ -168,9 +168,9 @@ This website allows the school to make easier connections with users, and allow 
 ### Footer
 
   - The footer section includes the mobile number, email, and address.
-  - the address includes an anchor to google maps, The links will open to a new tab to allow easy navigation for the user.
+  - the address includes an anchor to google maps. The links will open to a new tab to allow easy navigation for the user.
   - The footer section includes anchors to the relevant social media sites. The links will open to a new tab to allow easy navigation for users. 
-  - The footer is valuable to the users, it keeps them up-date and connected via social media.
+  - The footer is valuable to the users. It keeps them up-date and connected via social media.
 
 ![Footer](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/footer-readme.PNG)
 
@@ -179,7 +179,7 @@ This website allows the school to make easier connections with users, and allow 
 ### Gallery
 
   - The gallery provides users with dancing images to see more about classes. 
-  - This section is valuable to users, it gives them an idea about the classes and the ballet training.
+  - This section is valuable to users. It gives them an idea about the classes and the ballet training.
 
 ![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-1.PNG)
 ![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-2.PNG)
@@ -188,10 +188,10 @@ This website allows the school to make easier connections with users, and allow 
 
 ### Contact
 
-  - The contact page will allow the user to get in contact with our school, in order to register, ask questions, and give feedback. 
+  - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
   - the user will be asked to enter their First Name, Last Name, and Email Address. 
-  - The user will be able to specify which class, they would like to take, Classical ballet, Contemporary ballet, or both.
-  - At the end of the form users can submit the previous information.
+  - The user will be able to specify which class they would like to take, Classical ballet, Contemporary ballet, or both.
+  - At the end of the form, users can submit the previous information.
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
 
@@ -199,7 +199,7 @@ This website allows the school to make easier connections with users, and allow 
 
 ### Thank you page
 
- - This page confirms for the user that his information have been sent to Dancing together, and the school will contact hem soon.
+ - This page confirms for the user that his information has been sent to Dancing together, and the school will contact him soon.
 
 ![Thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/thank-you-page.PNG)
 
@@ -263,8 +263,8 @@ This website allows the school to make easier connections with users, and allow 
 
 ## Browser Compatibility
 
-- Dancing together site was tested on the following browsers Google Chrome,Safari and Mozilla Firefox.
-- Appearance, functionality and responsiveness were consistent, on a range of different device sizes and browsers.
+- The dancing together site was tested on the following browsers Google Chrome, Safari and Mozilla Firefox.
+- Appearance, functionality and responsiveness were consistent on a range of different device sizes and browsers.
 
 [Back to top](<#navigator>)
 
@@ -293,10 +293,10 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 
 ## To deploy the project
 The site deployed to GitHub pages. The steps to deploy a site are as follows:
-  1. In Dance together gitHub repository go to **settings** tap.
-  2. In Settings, navigate to the **Pages** tab on the left hand side.
+  1. In the Dance together gitHub repository, go to **settings** tap.
+  2. In Settings, navigate to the **Pages** tab on the left-hand side.
   3. Under **Source**, select the branch to **main**, then click **save**.
-  4. Once the main branch has been selected, the page will be automatically deployed successfully on [Dancing-together](https://shahemnezameddin.github.io/Dancing-together/) site.
+  4. Once the main branch has been selected, the page will be automatically deployed successfully on the [Dancing-together](https://shahemnezameddin.github.io/Dancing-together/) site.
 
 ![Deployment](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-pages.PNG)
 
@@ -305,21 +305,21 @@ The site deployed to GitHub pages. The steps to deploy a site are as follows:
 ## To fork the repository on GitHub
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 1. Log in to **GitHub** and locate the [repository](https://github.com/ShahemNezamEddin/Dancing-together).
-2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+2. On the right-hand side of the page inline with the repository name, is a button called **'Fork'**. Click on the button to create a copy of the original repository in your GitHub Account.
 
 ![Github repository fork](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-fork.PNG)
 
 [Back to top](<#navigator>)
 
 ## To create a local clone of this project
-The method from cloning a project from GitHub is below:
+The method for cloning a project from GitHub is below:
 
 1. Under the repository’s name, click on the **code** tab.
 2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
 3. In your IDE of choice, open **Git Bash**.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type **git clone**, and then paste the URL copied from GitHub.
-6. Press **enter** and the local clone will be created.
+4. Change the current working directory to where you want the cloned directory to be made.
+5. Type **git clone**, then paste the URL copied from GitHub.
+6. Press **enter**, and the local clone will be created.
 
 ![Github repository clone](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/github-clone.PNG)
 
@@ -335,34 +335,35 @@ The method from cloning a project from GitHub is below:
   - [Adobe color](https://color.adobe.com/).
   - [My color space](https://mycolor.space/).
   - [Contrast grid](https://contrast-grid.eightshapes.com/).
-- The wireframes created by [Balsamiq](https://balsamiq.com/wireframes/).
+- The wireframes were created by [Balsamiq](https://balsamiq.com/wireframes/).
 - The text for the Home page was taken from:
   - [Hayley Descavich](https://www.joffreyballetschool.com/hayley-descavich/).
   - [Kelly Hayes](https://www.peridance.com/facprofile.cfm?FID=326).
   - [Classical_ballet](https://en.wikipedia.org/wiki/Classical_ballet).
   - [Contemporary_ballet](https://en.wikipedia.org/wiki/Contemporary_ballet).
   - [ballet-for-kids](https://www.activekids.com/ballet/articles/5-benefits-of-ballet-for-kids).
-- The logo in the header designed by **Nahla Nezam Eddin**
+- The Logo in the header was designed by **Nahla Nezam Eddin**
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
-- The form validation idea came from a Code Institute course materials.
+- The form validation idea came from Code Institute course materials.
 - The inspiration for:  
   - The landing page image animation.
-  - Part from the form in contact page.
+  - Part from the form on the contact page.
 
-  came from love running project.
+  Came from love running project.
 
 [Back to top](<#navigator>)
+
 ### Media
 
-- The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/)
+- The photos used on the home and sign-up page are from [Pexels](https://www.pexels.com/)
 - The images used for the gallery page were taken from [Pexels](https://www.pexels.com/)
 
 [Back to top](<#navigator>)
 
 # Acknowledgements
-I would like to thank:
+I want to thank:
 - My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guidance and support.
-- Slack community, and Code Institute crew for their help and support.
+- Slack community and Code Institute crew for their help and support.
 - My family and friends, for their user experience and feedback.
 
 [Back to top](<#navigator>)
