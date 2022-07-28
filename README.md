@@ -186,7 +186,7 @@ This website allows the school to make easier connections with users, and lets t
 
   - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
   - the user will be asked to enter their First Name, Last Name, and Email Address. 
-  - The user will be able to specify if they would like to take classes in Classical ballet, Contemporary ballet, or both types.
+  - The user will be able to specify if they would like to take classes in Classical ballet, Contemporary ballet, or both.
   - At the end of the form users can submit all this information
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
@@ -214,16 +214,35 @@ This website allows the school to make easier connections with users, and lets t
 
 # Testing 
 
-[Back to top](<#navigator>)
-
 ## Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]()
+ No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+* Home page
+
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+* Gallery page
+
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+* Contact page
+
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+* Thank you page
+
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]()
+  - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/)
+
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
 
 [Back to top](<#navigator>)
+
+## Browser Testing 
 
 ## Fixed bugs
 
