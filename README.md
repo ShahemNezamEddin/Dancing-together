@@ -1,13 +1,13 @@
 # Dancing together
 
-The Dancing together website is for kids looking for fun dancing classes .
-our school offers fun activities for kids to learn how to dance from a young age because dancing is way to exercise, relax and have fun!
+The Dancing together website is for kids looking for dancing classes.
+our school offers activities for kids to learn how to dance from an early age, as we believe dancing help kids to exercise, relax and have fun!
 
-The users of this site can see information about our school, teachers, dance types, class day, and class times.
+The users of this site can see information about our school, teachers, dance types, the day and time of classes.
 
 They can register for classes, and ask questions or give feedback.
 
-This website allows the school to make easier connections with users, and lets the school estimate how many kids will attend each class.
+This website allows the school to make easier connections with users, and allow the school to estimate the number of kids attending each class.
 
 ![Responsive Mockup](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/dance-together-mockup.PNG)
 
@@ -53,10 +53,10 @@ This website allows the school to make easier connections with users, and lets t
 
 - As a user I want to be able to navigate through the whole site smoothly.
 - As a user I want to understand the purpose of the site upon loading it.
-- As a user I want to easily be able to contact Dancing together for more information.
+- As a user I want to easily contact Dancing together for more information.
 - As a user I want to see information about the school.
 - As a user I want to know more about teachers and ballet.
-- As a user I want to see some photos for dancing classes.
+- As a user I want to see photos for dancing classes.
 - As a user I want to connect with Dancing together on social media.
 
 
@@ -65,7 +65,7 @@ This website allows the school to make easier connections with users, and lets t
 ## Wireframes
 
 - The wireframes for Dancing together were produced in [Balsamiq](https://balsamiq.com).
-- There are three wireframes home page, gallery page and contact page.
+- There are three wireframes: home page, gallery page and contact page.
 - The wireframe display desktop computer, iPad device, and mobile device.
 
 ![Wireframe home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/wireframe-homepage.PNG)
@@ -81,8 +81,8 @@ This website allows the school to make easier connections with users, and lets t
 - Dancing together website has four pages:
   1. [Home](index.html) is the default loading page.
   2. [Gallery](gallery.html).
-  3. [contact](contact.html). **Those three pages are all accessible from the nav bar**. 
-  4. [thankYou](thankyou.html). The submit button links to this page.
+  3. [contact](contact.html). **The first three pages are all accessible from the nav bar.** 
+  4. [thankYou](thankyou.html). **The submit button links to thankyou page.**
 
 - There is another link to contact page in 'our classes' section, to allow users registering in our school. 
 
@@ -118,13 +118,11 @@ This website allows the school to make easier connections with users, and lets t
 
 ### Navigation bar
 
-  - The full responsive navigation bar at the top of the three pages.
-  
+  - The full responsive navigation bar at the top of the four pages. 
   - It includes anchor to the Logo that links to the home page. 
-
-  - the nav includes three anchors for the Home page, Gallery page, and Contact page.
-
-  - The navigation bar shows the users the name of the school and it makes the navigation easy between different pages.
+  - the nav includes three anchors for the Home page, Gallery page,Contact page and Thank you page.
+  - The navigation bar shows the name of the school to users.
+  - The navigation bar allows an easy navigation between different pages.
 
 ![Nav Bar](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/nav.PNG)
 
@@ -132,7 +130,7 @@ This website allows the school to make easier connections with users, and lets t
 
 ### The landing page image
 
-  - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school is for. 
+  - The landing includes a photograph with text overlay, to allow the user to see clear information about what this site is. 
   - This section introduces users with an eye-catching animation to catch their attention.
 
 ![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing-page-image.PNG)
@@ -159,9 +157,9 @@ This website allows the school to make easier connections with users, and lets t
   - This section allows users to see :
      - When are the classes?
      - Who are teachers?
-     - Which type of ballet will we learn? 
-  - This section will be updated that allow users be up to date.
-  - In this section, there is a register button navigate users on-click to Contact Page.
+     - Which type of ballet is taking place? 
+  - This section will be updated, to keep users up to date.
+  - In this section, there is a register button, which navigate users on-click to Contact Page.
 
 ![Our classes](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/our-classes-readme.PNG)
 
@@ -180,7 +178,7 @@ This website allows the school to make easier connections with users, and lets t
 
 ### Gallery
 
-  - The gallery provides users with dancing images to see what the classes look like. 
+  - The gallery provides users with dancing images to see more about classes. 
   - This section is valuable to users, it gives them an idea about the classes and the ballet training.
 
 ![Gallery](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/gallery-readme-1.PNG)
@@ -190,10 +188,10 @@ This website allows the school to make easier connections with users, and lets t
 
 ### Contact
 
-  - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
+  - The contact page will allow the user to get in contact with our school, in order to register, ask questions, and give feedback. 
   - the user will be asked to enter their First Name, Last Name, and Email Address. 
-  - The user will be able to specify if they would like to take classes in Classical ballet, Contemporary ballet, or both.
-  - At the end of the form users can submit all this information
+  - The user will be able to specify which class, they would like to take, Classical ballet, Contemporary ballet, or both.
+  - At the end of the form users can submit the previous information.
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
 
@@ -363,6 +361,6 @@ The method from cloning a project from GitHub is below:
 I would like to thank:
 - My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for guidance and support.
 - Slack community, and Code Institute crew for their help and support.
-- My family and friends for their user experience and feedback.
+- My family and friends, for their user experience and feedback.
 
 [Back to top](<#navigator>)
