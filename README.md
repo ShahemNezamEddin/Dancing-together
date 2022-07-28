@@ -29,16 +29,17 @@ This website allows the school to make easier connections with kids, and lets th
          - [Footer](<#footer>)
          - [Gallery](<#gallery>)
          - [Contact](<#contact>)
+         - [Thank you page](<#thank-you-page>)Thank you page
     - [Future features](<#future-features>)
 - [**Technologies used**](<#technologies-used>)         
 - [**Testing**](<#testing>)
     - [Validator testing](<#validator-testing>)
     - [Fixed bugs](<#Fixed-bugs>)
 - [**Deployment**](<#deployment>)
-- [Credits](<#credits>)
+- [**Credits**](<#credits>)
     - [Content](<#content>)
     - [Media](<#media>)     
-            
+- [**Acknowledgements**](<#Acknowledgements>)    
 
 # User experience (UX)
 
@@ -108,7 +109,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 ## Existing features
 
- ### Navigation bar
+### Navigation bar
 
   - The full responsive navigation bar at the top of the three pages.
   
@@ -122,7 +123,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 [Back to top](<#navigator>)
 
- ### The landing page image
+### The landing page image
 
   - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school is for. 
   - This section introduces the user with an eye-catching animation to grab their attention.
@@ -146,7 +147,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 [Back to top](<#navigator>)
 
- ### Our classes section
+### Our classes section
 
   - This section allows users to see :
      - When the classes will happen.
@@ -159,7 +160,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 [Back to top](<#navigator>)
 
- ### Footer
+### Footer
 
   - The footer section includes the mobile number, email, and address.
   - the address includes an anchor to google maps, The links will open to a new tab to allow easy navigation for the user.
@@ -170,7 +171,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 [Back to top](<#navigator>)
 
- ### Gallery
+### Gallery
 
   - The gallery provides users with dancing images to see what the classes look like. 
   - This section is valuable to users, it gives them an idea about the classes and the ballet training.
@@ -180,7 +181,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 [Back to top](<#navigator>)
 
- ### Contact
+### Contact
 
   - The contact page will allow the user to get in contact with our school to register, ask questions, and give feedback. 
   - the user will be asked to enter their First Name, Last Name, and Email Address. 
@@ -188,6 +189,14 @@ This website allows the school to make easier connections with kids, and lets th
   - At the end of the form users can submit all this information
 
 ![Contact](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/contact-readme-1.PNG)
+
+[Back to top](<#navigator>)
+
+### Thank you page
+
+ - This page confirms for the user that their information have been sent to Dancing together.,and the school will contact hem soon.
+
+![Thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/thank-you-page.PNG)
 
 [Back to top](<#navigator>)
 
