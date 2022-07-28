@@ -248,7 +248,7 @@ This website allows the school to make easier connections with users, and allow 
 
 ## Responsiveness Test
 
-* The responsive tests were happened by using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
+* The responsive tests were exercised by using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
 
 |        | iPad mine | Galaxy S5 | iPhone 6/7/8 | iPad | iPad Pro | iPhone 6/7/8 plus | Display >1200px |
 |--------|-----------|-----------|--------------|------|----------|-------------------|-----------------|
@@ -262,7 +262,7 @@ This website allows the school to make easier connections with users, and allow 
 ## Browser Compatibility
 
 - Dancing together site was tested on the following browsers Google Chrome,Safari and Mozilla Firefox.
-- Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+- Appearance, functionality and responsiveness were consistent, on a range of different device sizes and browsers.
 
 [Back to top](<#navigator>)
 
