@@ -79,10 +79,10 @@ This website allows the school to make easier connections with users, and allow 
 ## Site structure
 
 - Dancing together website has four pages:
-    1. [Home](index.html) is the default loading page.
-    2. [Gallery](gallery.html).
-    3. [contact](contact.html). **The first three pages are all accessible from the nav bar.** 
-    4. [thankYou](thankyou.html). **The submit button links to thankyou page.**
+    - [Home](index.html) is the default loading page.
+    - [Gallery](gallery.html).
+    - [contact](contact.html). **The first three pages are all accessible from the nav bar.** 
+    - [thankYou](thankyou.html). **The submit button links to thankyou page.**
 
 - There is another link to contact page in 'our classes' section, to allow users registering in our school. 
 
@@ -220,28 +220,30 @@ This website allows the school to make easier connections with users, and allow 
 
 ## Code Validation
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+### HTML
+
+* No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+
 * Home page
 
-![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/html-validator-index.PNG)
 
 * Gallery page
 
-![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/html-validator-gallery.PNG)
 
 * Contact page
 
-![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/html-validator-contact.PNG)
 
 * Thank you page
 
-![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/html-validator-thank-you.PNG)
 
-- CSS
+### CSS
   - No errors were found when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/)
 
-![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/css-validator-style.PNG)
 
 
 [Back to top](<#navigator>)
