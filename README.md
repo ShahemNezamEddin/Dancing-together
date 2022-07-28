@@ -275,13 +275,13 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 - Best Practices - Site conforms to industry best practices.
 - SEO - Search engine optimization. Is the site optimized for search engine result rankings.
 
-![Lighthouse test results home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![Lighthouse test results home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/lighthouse-home.PNG)
 
-![Lighthouse test results gallery page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![Lighthouse test results gallery page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/lighthouse-gallery.PNG)
 
-![Lighthouse test results contact page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![Lighthouse test results contact page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/lighthouse-contact.PNG)
 
-![Lighthouse test results thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+![Lighthouse test results thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/test/lighthouse-thank-you.PNG)
 
 [Back to top](<#navigator>)
 
