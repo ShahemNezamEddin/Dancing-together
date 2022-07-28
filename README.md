@@ -35,8 +35,13 @@ This website allows the school to make easier connections with users, and lets t
 - [**Testing**](<#testing>)
     - [Code Validation](<#code-validation>)
     - [Responsiveness Test](<#responsiveness-test>)
+    - [Browser Compatibility](<#browser-compatibility>)
+    - [Lighthouse](<#lighthouse>)
     - [Fixed bugs](<#Fixed-bugs>)
 - [**Deployment**](<#deployment>)
+    - [To deploy the project](<#to-deploy-the-project>)
+    - [To fork the repository on GitHub](<#to-fork-the-repository-on-github>)
+    - [To create a local clone of this project](<#to-create-a-local-clone-of-this-project>)
 - [**Credits**](<#credits>)
     - [Content](<#content>)
     - [Media](<#media>)     
@@ -252,6 +257,31 @@ This website allows the school to make easier connections with users, and lets t
 | Text   | pass      | pass      | pass         | pass | pass     | pass              | pass            |
 | Images | pass      | pass      | pass         | pass | pass     | pass              | pass            |
 | Links  | pass      | pass      | pass         | pass | pass     | pass              | pass            |
+
+[Back to top](<#navigator>)
+
+
+## Browser Compatibility
+
+- Dancing together site was tested on the following browsers Google Chrome,Safari and Mozilla Firefox.
+- Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+
+[Back to top](<#navigator>)
+
+## Lighthouse
+The site was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome Developer Tools to test each of the pages for:
+- Performance - How the page performs whilst loading.
+- Accessibility - Is the site accessible for all users and how can it be improved.
+- Best Practices - Site conforms to industry best practices.
+- SEO - Search engine optimization. Is the site optimized for search engine result rankings.
+
+![Lighthouse test results home page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+![Lighthouse test results gallery page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+![Lighthouse test results contact page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
+
+![Lighthouse test results thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
 
 [Back to top](<#navigator>)
 
