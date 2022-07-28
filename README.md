@@ -33,7 +33,8 @@ This website allows the school to make easier connections with users, and lets t
     - [Future features](<#future-features>)
 - [**Technologies used**](<#technologies-used>)         
 - [**Testing**](<#testing>)
-    - [Validator testing](<#validator-testing>)
+    - [Code Validation](<#code-validation>)
+    - [Responsiveness Test](<#responsiveness-test>)
     - [Fixed bugs](<#Fixed-bugs>)
 - [**Deployment**](<#deployment>)
 - [**Credits**](<#credits>)
@@ -214,10 +215,10 @@ This website allows the school to make easier connections with users, and lets t
 
 # Testing 
 
-## Validator Testing 
+## Code Validation
 
 - HTML
- No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
 * Home page
 
 ![W3C Validator test result](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/.PNG)
@@ -242,7 +243,17 @@ This website allows the school to make easier connections with users, and lets t
 
 [Back to top](<#navigator>)
 
-## Browser Testing 
+## Responsiveness Test
+
+* The responsive tests were happened by using [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
+
+|        | iPad mine | Galaxy S5 | iPhone 6/7/8 | iPad | iPad Pro | iPhone 6/7/8 plus | Display >1200px |
+|--------|-----------|-----------|--------------|------|----------|-------------------|-----------------|
+| Text   | pass      | pass      | pass         | pass | pass     | pass              | pass            |
+| Images | pass      | pass      | pass         | pass | pass     | pass              | pass            |
+| Links  | pass      | pass      | pass         | pass | pass     | pass              | pass            |
+
+[Back to top](<#navigator>)
 
 ## Fixed bugs
 
