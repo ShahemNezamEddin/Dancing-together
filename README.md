@@ -1,13 +1,13 @@
 # Dancing together
 
-The dancing together website is for kids looking for fun dancing classes .
+The Dancing together website is for kids looking for fun dancing classes .
 our school offers fun activities for kids to learn how to dance from a young age because dancing is way to exercise, relax and have fun!
 
-The users of this site can see information about our school, teachers, dance types, class days, and times.
+The users of this site can see information about our school, teachers, dance types, class day, and class times.
 
 They can register for classes, and ask questions or give feedback.
 
-This website allows the school to make easier connections with kids, and lets the school estimate how many students will attend each class.
+This website allows the school to make easier connections with users, and lets the school estimate how many kids will attend each class.
 
 ![Responsive Mockup](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/dance-together-mockup.PNG)
 
@@ -29,7 +29,7 @@ This website allows the school to make easier connections with kids, and lets th
          - [Footer](<#footer>)
          - [Gallery](<#gallery>)
          - [Contact](<#contact>)
-         - [Thank you page](<#thank-you-page>)Thank you page
+         - [Thank you page](<#thank-you-page>)
     - [Future features](<#future-features>)
 - [**Technologies used**](<#technologies-used>)         
 - [**Testing**](<#testing>)
@@ -72,12 +72,13 @@ This website allows the school to make easier connections with kids, and lets th
 
 ## Site structure
 
-- Dancing together website has three pages:
-  - [Home page](index.html) is the default loading page.
-  - [Gallery](gallery.html).
-  - [contact](contact.html).
-- Pages are all accessible from the nav bar. 
-- There is another link to contact page in 'our classes' section so users can register in our school. 
+- Dancing together website has four pages:
+  1. [Home](index.html) is the default loading page.
+  2. [Gallery](gallery.html).
+  3. [contact](contact.html). **Those three pages are all accessible from the nav bar**. 
+  4. [thankYou](thankyou.html). The submit button links to this page.
+
+- There is another link to contact page in 'our classes' section, to allow users registering in our school. 
 
 
 [Back to top](<#navigator>)
@@ -88,7 +89,7 @@ This website allows the school to make easier connections with kids, and lets th
   - The fonts chosen were 'Oswald' for the headings and 'Lato' for the body text. They fall back to sans-serif respectively.
   - 'Lato' is used for the body text as it provides a nice contrast to the cursive whilst being easy to read for all. 
   - 'Oswald' is used based on google font paring with 'Lato'.
-  - Dancing Together site is using both fonts same as Love Running Project.
+  - Dancing together site is using both fonts same as Love Running Project.
 
   ### Color scheme
   - The color scheme chosen is based on using our main image in [Adobe color](https://color.adobe.com/).
@@ -126,7 +127,7 @@ This website allows the school to make easier connections with kids, and lets th
 ### The landing page image
 
   - The landing includes a photograph with text overlay to allow the user to see clear information about what this site is and who the school is for. 
-  - This section introduces the user with an eye-catching animation to grab their attention.
+  - This section introduces users with an eye-catching animation to catch their attention.
 
 ![Landing Page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/landing-page-image.PNG)
 
@@ -139,7 +140,7 @@ This website allows the school to make easier connections with kids, and lets th
      - Ballet benefits.
      - Information about our teachers.
      - Ballet types. 
-  -  This should encourage the users to consider registering in our classes. 
+  -  That could encourage users to consider registering in our classes. 
 
 ![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-1.PNG)
 ![About Us](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/about-us-readme-2.PNG)
@@ -150,11 +151,11 @@ This website allows the school to make easier connections with kids, and lets th
 ### Our classes section
 
   - This section allows users to see :
-     - When the classes will happen.
-     - Who the teachers are.
-     - Which type of ballet we will learn. 
-  - This section will be updated so the user will be up to date with this information.
-  - In this section, there is a register button allows users to navigate on-click to Contact Page.
+     - When are the classes?
+     - Who are teachers?
+     - Which type of ballet will we learn? 
+  - This section will be updated that allow users be up to date.
+  - In this section, there is a register button navigate users on-click to Contact Page.
 
 ![Our classes](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/our-classes-readme.PNG)
 
@@ -194,7 +195,7 @@ This website allows the school to make easier connections with kids, and lets th
 
 ### Thank you page
 
- - This page confirms for the user that their information have been sent to Dancing together.,and the school will contact hem soon.
+ - This page confirms for the user that his information have been sent to Dancing together, and the school will contact hem soon.
 
 ![Thank you page](https://github.com/ShahemNezamEddin/Dancing-together/blob/main/assets/images/thank-you-page.PNG)
 
