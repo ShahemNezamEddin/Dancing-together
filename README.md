@@ -78,13 +78,13 @@ This website allows the school to make easier connections with users, and allow 
 
 ## Site structure
 
-1. Dancing together website has four pages:
+- Dancing together website has four pages:
     1. [Home](index.html) is the default loading page.
     2. [Gallery](gallery.html).
     3. [contact](contact.html). **The first three pages are all accessible from the nav bar.** 
     4. [thankYou](thankyou.html). **The submit button links to thankyou page.**
 
-2. There is another link to contact page in 'our classes' section, to allow users registering in our school. 
+- There is another link to contact page in 'our classes' section, to allow users registering in our school. 
 
 
 [Back to top](<#navigator>)
