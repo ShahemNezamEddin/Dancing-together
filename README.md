@@ -207,6 +207,10 @@ This website allows the school to make easier connections with users, and allow 
 
 ## Future features
 
+- Add media (videos) to the gallery page.
+- Add an iframe element that shows a google map for the school address in the footer or contact page. 
+- Add extra input fields with validation to the contact form.
+
 [Back to top](<#navigator>)
 
 # Technologies used
@@ -286,6 +290,12 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 [Back to top](<#navigator>)
 
 ## Fixed bugs
+
+- During browser testing, the font family (Felix Titling)for h1 was not working on the Firefox browser, and the dev tools console showed an error about the same topic. So that's why I removed it.
+- During the Responsiveness Test, I faced an issue with making responsive for small screens because the HTML width was too big. So I made it with a smaller size for small screens.
+- During the HTML code validation, an error has come up. I was using for register button, a button element with an anchor inside it. So the solution was to change the button to div and fix the related CSS code.
+- During the HTML code validation, an error has come up. I was using the h1 element on thank you page. So the solution was to change h1 to h2.
+- During development, I faced an issue finding the proper bath to images used in the project.
 
 [Back to top](<#navigator>)
 
